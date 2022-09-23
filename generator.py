@@ -9,11 +9,11 @@ import random
 
 articles = ("A", "THE")
 
-nouns = ("PERSON", "TIME", "NECK", "HAND", "CHILD")
+nouns = ("BOY", "GIRL", "BAT", "BALL")
 
-verbs = ("CHASED", "LOOKED", "RAN", "TOOK")
+verbs = ("HIT", "SAW", "LIKED")
 
-prepositions = ("WITH", "OF", "BUT", "BEHIND", "TOWARDS")
+prepositions = ("WITH", "BY")
 
 def sentence():
     """Builds and returns a sentence."""
