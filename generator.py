@@ -1,6 +1,6 @@
 """
 Program: generator.py
-Author: Ken
+Author: Group 4
 Generates and displays sentences using a simple grammar
 and vocabulary.  Words are chosen at random.
 """
